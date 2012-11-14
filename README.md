@@ -1,4 +1,8 @@
 pong
 ====
 
-pong implemented in ruby, with an ar component
+pong implemented in ruby, with augmented reality paddles
+
+requires:
+
+gosu
